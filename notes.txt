@@ -1,0 +1,17 @@
+
+
+1. Create Screen
+
+2. Create and move paddle #1
+
+3. Create and move paddle #2
+
+4. Create ball and move with it
+
+5. Collision with wall
+
+6. Collision with paddle
+
+7. Detect when misses
+
+8. Score
